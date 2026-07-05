@@ -4,7 +4,7 @@ const { useQueue } = require('discord-player');
 const { Translate } = require('../../process_tools');
 
 module.exports = {
-    name: 'volume',
+    name: 'ص',
     description:('Adjust the volume'),
     voiceChannel: true,
     options: [

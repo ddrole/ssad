@@ -3,7 +3,7 @@ const { useQueue } = require('discord-player');
 const { Translate } = require('../../process_tools');
 
 module.exports = {
-    name: 'skip',
+    name: 'س',
     description:('Skip the track'),
     voiceChannel: true,
 

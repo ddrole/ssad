@@ -3,7 +3,7 @@ const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js');
 const { Translate } = require('../../process_tools');
 
 module.exports = {
-    name: 'loop',
+    name: 'ع',
     description:('Toggle the looping of song\'s or the whole queue'),
     voiceChannel: true,
     options: [
